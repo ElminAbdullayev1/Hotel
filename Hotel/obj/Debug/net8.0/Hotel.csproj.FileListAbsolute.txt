@@ -1,0 +1,5 @@
+C:\Users\abdul\source\repos\Hotel\Hotel\obj\Debug\net8.0\Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\source\repos\Hotel\Hotel\obj\Debug\net8.0\Hotel.AssemblyInfoInputs.cache
+C:\Users\abdul\source\repos\Hotel\Hotel\obj\Debug\net8.0\Hotel.AssemblyInfo.cs
+C:\Users\abdul\source\repos\Hotel\Hotel\obj\Debug\net8.0\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\Hotel\Hotel\obj\Debug\net8.0\Hotel.sourcelink.json
